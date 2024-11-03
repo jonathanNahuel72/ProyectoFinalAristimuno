@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "name": "Billetera",
+    "price": 1500,
+    "image": "./images/billetera.png"
+  },
+  {
+    "id": "2",
+    "name": "Cartera de Cuero",
+    "price": 3200,
+    "image": "./images/cartera_cuero.png"
+  },
+  {
+    "id": "3",
+    "name": "Cartera Eco Cuero",
+    "price": 2900,
+    "image": "./images/cartera_eco_cuero.png"
+  },
+  {
+    "id": "4",
+    "name": "Cartera de Gamuza",
+    "price": 2500,
+    "image": "./images/cartera_gamuza.png"
+  },
+  {
+    "id": "5",
+    "name": "Cinturón rojo",
+    "price": 800,
+    "image": "./images/cintos.png"
+  },
+  {
+    "id": "6",
+    "name": "Cinturón marron",
+    "price": 800,
+    "image": "./images/cintos.png"
+  },
+  {
+    "id": "7",
+    "name": "Riñonera basica",
+    "price": 700,
+    "image": "./images/rinonera.png"
+  },
+  {
+    "id": "8",
+    "name": "Riñonera",
+    "price": 1700,
+    "image": "./images/rinonera.png"
+  }
+]
